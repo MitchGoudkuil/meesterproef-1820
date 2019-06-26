@@ -8,6 +8,6 @@ Aangezien we met 5 man aan het werk waren met ieder zijn eigen skills konden we 
 
 Aangezien ik wat later met coderen begon dan de rest van het team, i.v.m het design, was ik wel een beetje gestrest of ik niet te weinig zou gaan doen uiteindelijk maar dit heb ik in week 4 ingehaald door veel voor het cms te doen en ook een onderdeel van de bot. Daarnaast ben ik toch heel tevreden over het design wat ik gemaakt heb voor het product en de posters en banners die in dezelfde huisstijl zijn uitgewerkt.
 
-Terugkijkend op mijn leerdoelen heb ik alles gehaald. Het zou allemaal meer kunnen maar voor wat ik wist en waar ik nu sta ben ik zeer tevreden. Mijn reflectie op de leerdoelen staat hier: link.
+Terugkijkend op mijn leerdoelen heb ik alles gehaald. Het zou allemaal meer kunnen maar voor wat ik wist en waar ik nu sta ben ik zeer tevreden. Mijn reflectie op de leerdoelen staat vermeld in de [product biografie](https://mitchgoudkuil94.gitbook.io/product-biografie/reflectie-leerdoelen).
 
 Dit is de eerste keer geweest dat ik een af product oplever waar ik ook echt extreem trots op ben. Dit komt door de tevreden klant, tevreden doelgroep, de samenwerking in de groep en het totale werkende product.
