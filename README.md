@@ -32,9 +32,10 @@ Want to know how the teamwork went during the project? Check out the reflection.
 As a part of the Minor web development we also had to write three articles, go and see different company's in Amsterdam called the weekly Mingle, and see some lectures. All of this documentation can be found down below.
 
 #### Links to the articles
-I also wrote two articles in which I explain how javascript modules work and how you can make some basic css animations with a svg.
+I also wrote two articles in which I explain how javascript modules work and how you can make some basic css animations with a svg but also the great use of a Voice User Interface.
 - [Article 1](https://medium.com/@mitchgoudkuil94/from-thinking-to-coding-in-modules-f222b4303cbe)
 - [Article 2](https://medium.com/@mitchgoudkuil94/the-power-of-basic-cssanimations-2ab873f676b0)
+- [Article 3](https://medium.com/@mitchgoudkuil94/a-great-example-of-a-voice-user-interface-442ad05077d8)
 ---
 #### Weekly Mingle and weekly nerd
 - [Weekly Mingle](/weeklyMingle/weeklymingle.md)
